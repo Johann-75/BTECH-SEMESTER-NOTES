@@ -1,4 +1,4 @@
-# B.Tech Semester Notes
+# B.Tech CSE-AI Semester Notes
 
 ## 3rd Semester
 - **Computer Organization & Architecture (COA)** — `CSE_2151`
